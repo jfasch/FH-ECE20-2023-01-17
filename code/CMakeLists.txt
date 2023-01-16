@@ -6,11 +6,6 @@ ADD_LIBRARY(
   sensor-const.cpp
   sensor-random.h
   sensor-random.cpp
-
-  uniq.cpp
-  filter.cpp
-  sensor-repo.cpp
-
 )
 
 TARGET_INCLUDE_DIRECTORIES(
